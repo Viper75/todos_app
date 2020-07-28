@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Todos App</string>
+    <string name="todo_desc_hint">Description</string>
+    <string name="todo_notes_hint">Add notes...</string>
+    <string name="todo_priority_hint">Priority</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="add_todo_text">Save</string>
+</resources>
